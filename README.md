@@ -25,3 +25,10 @@
 |   ❌   | Sleep                | After some time in sleep-mode, the pc doesn't wake up, so you have to restart |
 |   ❌    | Fingerprint          | USB custom blocked                                           |
 |   ❌    | WIFI                 | Unable to drive                                             |
+
+## Some Screenshots
+![Image5](Images/Image5.png)
+![Image6](Images/Image6.png)
+![Image2](Images/Image2.png)
+![Image3](Images/Image3.png)
+![Image4](Images/Image4.png)
