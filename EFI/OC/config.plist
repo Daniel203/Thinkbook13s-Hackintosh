@@ -24,6 +24,14 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
+				<string>SSDT-LID.aml</string>
+				<key>Path</key>
+				<string>SSDT-LID.aml</string>
+				<key>Enabled</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>SSDT-PLUG.aml</string>
 				<key>Path</key>
 				<string>SSDT-PLUG.aml</string>
@@ -375,6 +383,14 @@
 				<data>AQAAAA==</data>
 				<key>framebuffer-stolenmem</key>
 				<data>AAAwAQ==</data>
+				<key>framebuffer-con2-enable</key>
+				<data>
+				AQAAAA==
+				</data>
+				<key>framebuffer-con2-index</key>
+				<data>
+				/////w==
+				</data>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x1F,0x3)</key>
 			<dict>
