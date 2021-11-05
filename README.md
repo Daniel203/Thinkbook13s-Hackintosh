@@ -4,7 +4,7 @@
 > - **Lenovo Thinkbook13s**
 
 ### Current MacOs version
-> - MacOs `11.3` Big Sur
+> - MacOs `12.0` Monterey
 
 ## Laptop Configuration
 
@@ -16,15 +16,12 @@
 | Graphics    | UHD Graphics 620                                             |
 | Monitor     | FHD 1920x1080                                                |
 | Sound       | ACL 257                                                      |
-| Network     | TP-Link Archer T3U  USB network card                          |
 | Trackpad    | Intel I2C HID INT34BB                                        |
 
 ## What doesn't work
 | Status | Name                 | info                                                         |
 | :----: | -------------------- | ------------------------------------------------------------ |
-|   ❌   | Sleep                | After some time in sleep-mode, the pc doesn't wake up, so you have to restart |
 |   ❌    | Fingerprint          | USB custom blocked                                           |
-|   ❌    | WIFI                 | Unable to drive                                             |
 
 ## Some Screenshots
 ![Image5](Images/Image5.png)
